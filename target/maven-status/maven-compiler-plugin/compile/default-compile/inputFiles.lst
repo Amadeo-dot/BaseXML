@@ -1,0 +1,5 @@
+/home/alumne/NetBeansProjects/CatalegDeVideojocs/src/main/java/com/mycompany/catalegdevideojocs/ui/CatalegDeVideojocs.java
+/home/alumne/NetBeansProjects/CatalegDeVideojocs/src/main/java/com/mycompany/catalegdevideojocs/dao/VideojocDAO.java
+/home/alumne/NetBeansProjects/CatalegDeVideojocs/src/main/java/com/mycompany/catalegdevideojocs/model/Videojoc.java
+/home/alumne/NetBeansProjects/CatalegDeVideojocs/src/main/java/com/mycompany/catalegdevideojocs/db/BaseXConnection.java
+/home/alumne/NetBeansProjects/CatalegDeVideojocs/src/main/java/com/mycompany/catalegdevideojocs/dao/BaseXVideojocDAOImpl.java
