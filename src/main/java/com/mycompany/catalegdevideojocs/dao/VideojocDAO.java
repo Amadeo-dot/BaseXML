@@ -4,6 +4,8 @@
  */
 package com.mycompany.catalegdevideojocs.dao;
 
+import java.util.List;
+
 /**
  *
  * @author alumne
