@@ -1,5 +1,5 @@
-com/mycompany/catalegdevideojocs/model/Videojoc.class
-com/mycompany/catalegdevideojocs/dao/BaseXVideojocDAOImpl.class
-com/mycompany/catalegdevideojocs/dao/VideojocDAO.class
-com/mycompany/catalegdevideojocs/db/BaseXConnection.class
-com/mycompany/catalegdevideojocs/ui/CatalegDeVideojocs.class
+videogames\db\BaseXConnection.class
+videogames\dao\VideojocDAO.class
+videogames\model\Videojoc.class
+videogames\ui\MainApp.class
+videogames\dao\BaseXVideojocDAOImpl.class
